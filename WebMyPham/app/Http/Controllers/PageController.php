@@ -25,7 +25,7 @@ class PageController extends Controller
         //dd($new_product);
         return view('page.trangchu',compact('slide','new_product','sanpham_khuyenmai'));
     }
-    
+
     public function getLienHe(){
         return view('page.lienhe');
     }
