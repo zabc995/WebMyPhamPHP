@@ -19,7 +19,7 @@ CocoSecret is a ecommerce web by php and lavarel framework for cosmetics.
 * Write guide for tools
 * Testing
 * Support code - fix bug - solution to resolve issue
-* <img src="https://image.flaticon.com/icons/svg/25/25179.svg" alt="Done Status" height=”50″ width=”50″>
+* <img src="https://svgshare.com/i/Byn.svg" alt="Done Status">
 
 ### Sơn
 * Toying with the idea of CocoSecret
@@ -31,29 +31,29 @@ CocoSecret is a ecommerce web by php and lavarel framework for cosmetics.
 * [Feat]: Display to home
 * [Feat]: Get Cate to Menu
 * [Feat]: Detail Prouduct
-* <img src="https://image.flaticon.com/icons/svg/25/25179.svg" alt="Done Status" height=”50″ width=”50″>
+* <img src="https://svgshare.com/i/Byn.svg" alt="Done Status">
 
 ### Trường
 * Coder
 * [Feat]: Manage Admin
 * [Feat]: Manage Bill
-* <img src="https://image.flaticon.com/icons/svg/25/25179.svg" alt="Done Status" height=”50″ width=”50″>
+* <img src="https://svgshare.com/i/Byn.svg" alt="Done Status">
 
 ### Minh
 * Coder
 * [Feat]: Add to cart
 * [Feat]: Delete from cart
 * [Feat]: Order Checkout
-* <img src="https://image.flaticon.com/icons/svg/25/25179.svg" alt="Done Status" height=”50″ width=”50″>
+* <img src="https://svgshare.com/i/Byn.svg" alt="Done Status">
 
 ### Long
 * Coder
 * [Feat]: Login & Logout
 * [Feat]: Sign Up
-* <img src="https://image.flaticon.com/icons/svg/25/25179.svg" alt="Done Status" height=”50″ width=”50″>
+* <img src="https://svgshare.com/i/Byn.svg" alt="Done Status">
 
 ### Chương
 * Coder
 * [Feat]: Search follow name name and price
 * [Feat]: Direct Contact page and Recommend page
-* <img src="https://image.flaticon.com/icons/svg/25/25179.svg" alt="Done Status" height=”50″ width=”50″>
+* <img src="https://svgshare.com/i/Byn.svg" alt="Done Status">
