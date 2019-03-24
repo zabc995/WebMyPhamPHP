@@ -1,4 +1,4 @@
-# CocoSecret [![Build Status](https://github.com/zabc995/WebMyPhamPHP)](https://github.com/zabc995/WebMyPhamPHP)
+# CocoSecret <a href="http://myphamngocson.000webhostapp.com/"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 
 CocoSecret is a ecommerce web by php and lavarel framework for cosmetics.
 
