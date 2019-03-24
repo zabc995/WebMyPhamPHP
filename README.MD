@@ -31,6 +31,16 @@ CocoSecret is a ecommerce web by php and lavarel framework for cosmetics.
 * [Feat]: Get Cate to Menu
 * [Feat]: Detail Prouduct
 
+### Long
+* Coder
+* [Feat]: Login & Logout
+* [Feat]: Sign Up
+
+### Chương
+* Coder
+* [Feat]: Search follow name name and price
+* [Feat]: Direct Contact page and Recommend page
+
 ### Trường
 * Coder
 * [Feat]: Admin
@@ -41,13 +51,3 @@ CocoSecret is a ecommerce web by php and lavarel framework for cosmetics.
 * [Feat]: Add to cart
 * [Feat]: Delete from cart
 * [Feat]: Checkout
-
-### Long
-* Coder
-* [Feat]: Login & Logout
-* [Feat]: Sign Up
-
-### Chương
-* Coder
-* [Feat]: Search follow name name and price
-* [Feat]: Direct Contact page and Recommend page
