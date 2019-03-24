@@ -19,7 +19,6 @@ CocoSecret is a ecommerce web by php and lavarel framework for cosmetics.
 * Write guide for tools
 * Testing
 * Support code - fix bug - solution to resolve issue
-* <img src="https://svgshare.com/i/Bzd.svg" alt="Task Done">
 
 ### Sơn
 * Toying with the idea of CocoSecret
@@ -31,7 +30,6 @@ CocoSecret is a ecommerce web by php and lavarel framework for cosmetics.
 * [Feat]: Display to home
 * [Feat]: Get Cate to Menu
 * [Feat]: Detail Prouduct
-* <img src="https://svgshare.com/i/Bzd.svg" alt="Task Done">
 
 ### Trường
 * Coder
